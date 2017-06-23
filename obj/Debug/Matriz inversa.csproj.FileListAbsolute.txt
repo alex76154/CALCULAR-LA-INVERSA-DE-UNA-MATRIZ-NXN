@@ -1,0 +1,12 @@
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.exe.config
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.exe
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.pdb
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.csprojResolveAssemblyReference.cache
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.exe
+c:\users\efren\documents\visual studio 2013\Projects\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.pdb
+I:\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.exe.config
+I:\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.exe
+I:\Matriz inversa\Matriz inversa\bin\Debug\Matriz inversa.pdb
+I:\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.csprojResolveAssemblyReference.cache
+I:\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.exe
+I:\Matriz inversa\Matriz inversa\obj\Debug\Matriz inversa.pdb
